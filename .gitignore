@@ -2,5 +2,5 @@ info/*
 streamdata_insert.log
 stats/__pycache__
 scraping/__pycache__
-db/__pycache__
+db_streamdata/__pycache__
 graph/__pycache__
